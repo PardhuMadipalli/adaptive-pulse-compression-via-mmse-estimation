@@ -2,7 +2,7 @@ Adaptive Pulse Compression via MMSE Estimation IMPLEMENTATION only
 ==================================
 
 ### Author: Pardhu M
-### contact: pardhu.madipalli@outlook.com
+### contact: pardhu1212@gmail.com
 
 
 ## Description
